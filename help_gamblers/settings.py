@@ -252,7 +252,7 @@ FRONT_URL = get_env_var('FRONT_URL')
 COUNTRIES_PLUS_COUNTRY_HEADER = "USER_COUNTRY"
 OPENEXCHANGERATES_APP_ID = "96558b05d5a34781a0a29eddf32249a8"
 APPEND_SLASH = True
-STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"      # new
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
 
 BASE_URL="https://localhiost:8000"
 SECRET_KEY="X4m30GEHjudwgRE555lqAngjBOTGo0nZbbUEImlJVjI="
