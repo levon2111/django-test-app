@@ -1,5 +1,6 @@
 SETTINGS=local
 BASE_URL=https://localhiost:8000
+SECRET_KEY=X4m30GEHjudwgRE555lqAngjBOTGo0nZbbUEImlJVjI=
 
 
 # Redis

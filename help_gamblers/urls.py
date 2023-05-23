@@ -22,7 +22,6 @@ from drf_yasg import openapi
 from drf_yasg.views import get_schema_view
 from rest_framework import permissions, routers
 
-from help_gamblers.apps.casino.urls import router as casino_urls
 from help_gamblers.apps.core.urls import router as core_urls
 from help_gamblers.apps.users.urls import router as user_urls
 
@@ -59,7 +58,6 @@ class DefaultRouter(routers.DefaultRouter):
 
 router = DefaultRouter()
 router.extend(core_urls)
-router.extend(casino_urls)
 router.extend(user_urls)
 
 urlpatterns = [

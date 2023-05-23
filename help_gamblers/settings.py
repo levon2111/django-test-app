@@ -72,7 +72,6 @@ INSTALLED_APPS = [
     "help_gamblers.taskapp.celery.CeleryAppConfig",
     "help_gamblers.apps.users.apps.UsersConfig",
     "help_gamblers.apps.core.apps.CoreConfig",
-    # "help_gamblers.apps.casino",
 ]
 
 MIDDLEWARE = [
@@ -255,5 +254,5 @@ OPENEXCHANGERATES_APP_ID = "96558b05d5a34781a0a29eddf32249a8"
 APPEND_SLASH = True
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"      # new
 
-import django_heroku
-django_heroku.settings(locals())
+BASE_URL="https://localhiost:8000"
+SECRET_KEY="X4m30GEHjudwgRE555lqAngjBOTGo0nZbbUEImlJVjI="

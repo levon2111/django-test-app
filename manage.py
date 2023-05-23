@@ -16,9 +16,8 @@ def main():
     environment = env("SETTINGS") if "SETTINGS" in os.environ else 'local'
     env_file = f".envs/.{environment}/.django"
     dotenv.read_dotenv(str(ROOT_DIR.path(env_file)))
-    settings = os.environ.get('SETTINGS', 'local')
 
-    os.environ.setdefault('DJANGO_SETTINGS_MODULE', f'help_gamblers.settings.{settings}')
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', f'help_gamblers.settings')
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:
