@@ -1,0 +1,2602 @@
+[
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created": "2023-05-16 06:27:28.397772",
+      "established": "2023-05-16",
+      "modified": "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": true,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": true,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },{
+    "model": "casino.Casino",
+    "fields": {
+      "name": "BitStarz Casino",
+      "website": "http://www.bitstarz.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "http://www.bitstarz.com",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "SlotWolf Casino",
+      "website": "https://www.slotwolf.com",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…609120accef4/slotwolf-casino-logo-update-2022.png",
+      "affiliate_link": "https://www.slotwolf.com",
+      "is_recommended": true,
+      "rating": 4,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Kakadu Casino",
+      "website": "https://www.casinokakadu.com/",
+      "manual_flushing": true,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": false,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.casinokakadu.com/",
+      "is_recommended": true,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "N1 Casino",
+      "website": "https://www.n1casino.com",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "N1 Interactive Ltd. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…2fa56904ed14e069fecaa/n1-casino-logo-update-2.png",
+      "affiliate_link": "https://www.n1casino.com",
+      "is_recommended": false,
+      "rating": 5,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Tsars Casino",
+      "website": "https://www.tsars.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "RR Investments N.V.",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.tsars.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  },
+  {
+    "model": "casino.Casino",
+    "fields": {
+      "name": "Bitkingz Casino",
+      "website": "https://www.bitkingz.com/",
+      "manual_flushing": false,
+      "rtp": "NOT_STATED",
+      "company": "DAMA N.V. Casinos",
+      "live_chat": true,
+      "contact_email": "contact@mail.com",
+      "image": "https://www.askgamblers.com/uploads/original/casin…animation-for-20-finalists-askgamblers-awards.svg",
+      "affiliate_link": "https://www.bitkingz.com/",
+      "is_recommended": false,
+      "rating": 3,
+      "created":  "2023-05-16 06:27:28.397772",
+      "established":  "2023-05-16",
+      "modified":  "2023-05-16 06:27:28.397772"
+    }
+  }
+]

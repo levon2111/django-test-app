@@ -1,0 +1,28 @@
+# General
+# ------------------------------------------------------------------------------
+SETTINGS=production
+BASE_URL=
+
+# Redis
+# ------------------------------------------------------------------------------
+REDIS_URL=redis://redis:6379/0
+
+
+# Celery
+# ------------------------------------------------------------------------------
+CELERY_BROKER_URL=redis://redis:6379/0
+
+# Flower
+# ------------------------------------------------------------------------------
+CELERY_FLOWER_USER=local
+CELERY_FLOWER_PASSWORD=password
+
+FRONT_URL=https://something.com
+
+
+EMAIL_HOST=smtp-relay.sendinblue.com
+EMAIL_HOST_USER=levon2111@gmail.com
+EMAIL_HOST_PASSWORD='gb51rS6v9HfdjE8D'
+EMAIL_PORT=587
+EMAIL_USE_TLS=True
+

@@ -1,0 +1,56 @@
+version: '3'
+
+volumes:
+  production_django_protected: { }
+  production_postgres_data: { }
+  production_postgres_data_backups: { }
+
+services:
+  django: &django
+    build:
+      context: .
+      dockerfile: ./compose/production/django/Dockerfile
+    depends_on:
+      - postgres
+    volumes:
+      - .:/app
+      - production_django_protected:/app/protected
+    env_file:
+      - ./.envs/.production/.django
+      - ./.envs/.local/.postgres
+    ports:
+      - "8000:8000"
+    command: /start
+
+  postgres:
+    build:
+      context: .
+      dockerfile: ./compose/production/postgres/Dockerfile
+    volumes:
+      - production_postgres_data:/var/lib/postgresql/data
+      - production_postgres_data_backups:/backups
+    env_file:
+      - ./.envs/.production/.postgres
+    ports:
+      - "5432:5432"
+
+  redis:
+    image: redis:3.2
+
+  celeryworker:
+    <<: *django
+    command: /start-celeryworker
+
+  celerybeat:
+    <<: *django
+    command: /start-celerybeat
+
+  flower:
+    <<: *django
+    ports:
+      - "5555:5555"
+    depends_on:
+      - celeryworker
+      - celerybeat
+      - django
+    command: /start-flower

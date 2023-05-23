@@ -1,0 +1,19 @@
+{% extends "email/base.html" %}
+
+{% block content %}
+<br>
+Hi {{ name }}
+<br>
+<br>
+Welcome to HelpGamblers .
+Please activate your account to be able to use its features fully.
+Link: {{ callback_url }}
+<br>
+<br>
+<br>
+<br>
+<br>
+With regards,<br>
+HelpGamblers team<br>
+
+{% endblock %}
