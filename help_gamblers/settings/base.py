@@ -254,3 +254,6 @@ COUNTRIES_PLUS_COUNTRY_HEADER = "USER_COUNTRY"
 OPENEXCHANGERATES_APP_ID = "96558b05d5a34781a0a29eddf32249a8"
 APPEND_SLASH = True
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"      # new
+
+import django_heroku
+django_heroku.settings(locals())
