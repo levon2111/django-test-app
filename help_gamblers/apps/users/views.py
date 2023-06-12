@@ -185,8 +185,8 @@ class ReleaseAnnouncementAPIView(APIView):
             user.is_active = False
             user.save()
             context = {
-                # "platform_url": f"https://polar-bayou-90040.herokuapp.com/confirm/{user.reset_key_token}",
-                "platform_url": f"http://localhost:8000/confirm/{user.reset_key_token}",
+                "platform_url": f"https://polar-bayou-90040.herokuapp.com/confirm/{user.reset_key_token}",
+                # "platform_url": f"http://localhost:8000/confirm/{user.reset_key_token}",
                 "text_to_send": text_to_send
             }
             message = get_template("email/product_release_information.html").render(context)
