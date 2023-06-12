@@ -8,7 +8,7 @@ from help_gamblers.apps.core.models import Currency, Language
 from help_gamblers.apps.core.serializers import CurrencySerializer, LanguageSerializer
 from help_gamblers.apps.core.utils import generate_unique_key, is_invalid_password
 from help_gamblers.apps.users.models import User
-from help_gamblers.apps.users.tasks import send_signup_email, forgot_password_email
+from help_gamblers.apps.users.tasks import forgot_password_email
 
 log = logging.getLogger(__name__)
 
@@ -150,27 +150,31 @@ class ForgotPasswordSerializer(serializers.Serializer):
 
 
 class ResetPasswordSerializer(serializers.Serializer):
-    password = serializers.CharField()
-    repeat_password = serializers.CharField()
-
-    def reset(self, validated_data):
-        user = User.objects.get(reset_key_token=self.context['reset_key_token'])
-        user.set_password(validated_data['password'])
-        user.reset_key_token = None
+    def confirm(self, validated_data):
+        user = User.objects.get(reset_key_token=self.context['key_token'])
+        user.is_active = True
         user.save()
 
-    def validate(self, data):
-        self.check_valid_password(data)
-        self.check_valid_token()
 
-        return data
+class ReleaseAnnouncementSingleUserSerializer(serializers.Serializer):
+    email = serializers.EmailField(required=True)
+    name = serializers.CharField(required=True)
 
-    @staticmethod
-    def check_valid_password(data):
-        invalid_password_message = is_invalid_password(data.get('password'), data.get('repeat_password'))
-        if invalid_password_message:
-            raise invalid_password_message
 
-    def check_valid_token(self):
-        if not User.objects.filter(reset_key_token=self.context['reset_key_token']).exists():
-            raise serializers.ValidationError('Token is not valid.')
+class SingleUserIdSerializer(serializers.Serializer):
+    id = serializers.IntegerField(required=True, allow_null=False)
+
+    def validate(self, attrs):
+        exists = User.objects.filter(id=attrs["id"]).first()
+        if not exists:
+            raise ValidationError({"detail": f"User with id: {attrs['id']} not exists"})
+        return attrs
+
+
+class ListUserIdSerializer(serializers.Serializer):
+    users_list = serializers.ListSerializer(child=SingleUserIdSerializer())
+
+
+class ReleaseAnnouncementSerializer(serializers.Serializer):
+    users_list = serializers.ListSerializer(child=ReleaseAnnouncementSingleUserSerializer())
+    text_to_send = serializers.CharField(allow_null=False, allow_blank=False)

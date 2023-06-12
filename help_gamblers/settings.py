@@ -245,7 +245,7 @@ EMAIL_HOST_USER = get_env_var('EMAIL_HOST_USER')
 EMAIL_HOST_PASSWORD = get_env_var('EMAIL_HOST_PASSWORD')
 EMAIL_PORT = get_env_var('EMAIL_PORT')
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-DEFAULT_FROM_EMAIL = 'levon2111@gmail.com'
+DEFAULT_FROM_EMAIL = 'levon.yeghiazaryan@sentium-consulting.com'
 FRONT_URL = get_env_var('FRONT_URL')
 
 COUNTRIES_PLUS_COUNTRY_HEADER = "USER_COUNTRY"

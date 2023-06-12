@@ -46,6 +46,6 @@ class UserModelAdmin(UserAdmin):
             'fields': ('username', 'email', 'is_active', 'password1', 'password2'),
         }),
     )
-    list_display = ('pk', 'email', 'name', 'is_superuser')
+    list_display = ('pk', 'email', 'name', 'is_superuser', "is_active")
     search_fields = ['name', 'email']
     exclude = ['username', ]
