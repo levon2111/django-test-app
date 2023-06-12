@@ -10,11 +10,10 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
-import os
-from pathlib import Path
-
 import environ
+import os
 from django.core.exceptions import ImproperlyConfigured
+from pathlib import Path
 
 
 def get_env_var(var_name, default=None):
@@ -254,5 +253,9 @@ OPENEXCHANGERATES_APP_ID = "96558b05d5a34781a0a29eddf32249a8"
 APPEND_SLASH = True
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
 
-BASE_URL="https://localhiost:8000"
-SECRET_KEY="X4m30GEHjudwgRE555lqAngjBOTGo0nZbbUEImlJVjI="
+BASE_URL = "https://localhiost:8000"
+SECRET_KEY = "X4m30GEHjudwgRE555lqAngjBOTGo0nZbbUEImlJVjI="
+
+CSRF_TRUSTED_ORIGINS = [
+    'https://polar-bayou-90040.herokuapp.com'
+]
